@@ -1,0 +1,2 @@
+def spaceIsFree(pos):
+    return board[pos] == ' '
